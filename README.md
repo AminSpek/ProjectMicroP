@@ -5,7 +5,7 @@
 - [Hamizan](https://www.instagram.com/_hmzn_)
 - [Sam](https://www.instagram.com/hisyamuddin_tajudin)
 - [Aufa](https://www.instagram.com/auu_faa)
-- [Arif Hanifa](https://www.instagram.com/marhani)
+- [Arif Hanifa](https://www.instagram.com/marhani_9s)
 - [Jai](https://www.instagram.com/azairiemohdyusof)
 - [Redz](https://www.instagram.com/redz_lampo)
 
