@@ -2,12 +2,12 @@
 - Full Project File will be uploaded later.
 
 # Credits
-- [Hamizan](www.instagram.com/_hmzn_)
-- [Sam](instagram.com/hisyamuddin_tajudin)
-- [Aufa](instagram.com/auu_faa)
-- [Arif Hanifa](instagram.com/marhani)
-- [Jai](instagram.com/azairiemohdyusof)
-- [Redz](instagram.com/redz_lampo)
+- [Hamizan](https://www.instagram.com/_hmzn_)
+- [Sam](https://www.instagram.com/hisyamuddin_tajudin)
+- [Aufa](https://www.instagram.com/auu_faa)
+- [Arif Hanifa](https://www.instagram.com/marhani)
+- [Jai](https://www.instagram.com/azairiemohdyusof)
+- [Redz](https://www.instagram.com/redz_lampo)
 
 # Mini Project MicroP
 To learn microprocessor using FRDM-KL25Z
