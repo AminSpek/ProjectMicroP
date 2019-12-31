@@ -2,7 +2,7 @@
 - Full Project File will be uploaded later.
 
 # Credits
-- [Hamizan](instagram.com/_hmzn_)
+- [Hamizan](www.instagram.com/_hmzn_)
 - [Sam](instagram.com/hisyamuddin_tajudin)
 - [Aufa](instagram.com/auu_faa)
 - [Arif Hanifa](instagram.com/marhani)
