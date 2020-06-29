@@ -25,7 +25,7 @@ To learn microprocessor using FRDM-KL25Z
 
 ### Download
 - Download the latest stable Keil® for use on your desktop.
-- Download/Copy the code [MP02.c](https://raw.githubusercontent.com/AminSpek/ProjectMicroP/master/MP02.c)
+- Download/Copy the code [MP02.c](https://raw.githubusercontent.com/el-amindev/ProjectMicroP/master/MP02.c)
 - Open Keil, setup your own configuration, paste and run.
 
 ## Todo List
@@ -47,13 +47,13 @@ Welcome all contributations. First read our [Contributor Code of Conduct][CODE_O
 
 ## License
 
-Copyright (c) 2019 AminSpek [github.com/AminSpek/ProjectMicroP][github]
+Copyright (c) 2019 el-amindev [github.com/el-amindev/ProjectMicroP][github]
 
 
 
-[release]: https://github.com/AminSpek/ProjectMicroP
-[website]: https://github.com/AminSpek/ProjectMicroP
-[github]: https://github.com/AminSpek/ProjectMicroP
+[release]: https://github.com/el-amindev/ProjectMicroP
+[website]: https://github.com/el-amindev/ProjectMicroP
+[github]: https://github.com/el-amindev/ProjectMicroP
 [USAGE]: ./USAGE.md
 [CHANGELOG]: ./CHANGELOG.md
 [CODE_OF_CONDUCT]: ./CODE_OF_CONDUCT.md
